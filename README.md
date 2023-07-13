@@ -1,6 +1,6 @@
-# "Talk2Text Live" 🗣️🔀📝 🗣️🔀📝
+# Talk2Text Live 🗣️🔀📝
 
-Welcome to the Talk2Text Live 🗣️🔀📝! This Python program utilizes the open-source Whisper model by OpenAI to convert speech into text in real time. 🎙️🔀📝
+Welcome to Talk2Text Live! This Python program utilizes the open-source Whisper model by OpenAI to convert speech into text in real time. 🎙️🔀📝
 
 ## Prerequisites 📋🔧
 
@@ -29,7 +29,7 @@ pip install openai-whisper
 
 ## Example Output 📝🔽
 
-
+https://github.com/kamya-ai/Realtime-Speech2Text/assets/139073975/b4e4d25e-d7aa-4e05-b726-15a2ba161cbd
 
 ## Contributing 👥🤝
 
@@ -43,4 +43,6 @@ Contributions are welcome! If you have any ideas, suggestions, or improvements, 
 
 ---
 
-Enjoy using the Speech-to-Text Real-Time Converter! If you have any questions or need further assistance, please don't hesitate to reach out. Happy transcribing! 🎉📝
+Enjoy using the Speech-to-Text Real-Time Converter! If you have any questions or need further assistance in deploying the model on any platform, please don't hesitate to reach out. Happy transcribing! 🎉📝
+
+Contact:- info@kamyawebdesigners.com
